@@ -44,7 +44,8 @@ width:70%
 
 <video controls controles poster="">
 <source src="mypage_sfiles/SS_9.mov">
-</video></source>
+</source>
+</video>
 
 追加して一通り終わる。
 
@@ -87,7 +88,7 @@ uploadする場合もindexにすることに注意。upload自体はdrag and dro
 
 <video controls controles poster="">
 <source src="mypage_sfiles/SS_10.mov">
-</video></source>
+</source></video>
 
 するとYour site is ready to be published at https://yumannimac.github.io/sample/が出てくる。
 
@@ -105,10 +106,11 @@ uploadする場合もindexにすることに注意。upload自体はdrag and dro
 
 <video controls controles poster="">
 <source src="mypage_sfiles/SS_12.mov">
-</video></source>
+</source>
+</video>
 
 今回作ったサンプルページはこちら:  
-https://yumannimac.github.io/sample/
+[https://yumannimac.github.io/sample/](https://yumannimac.github.io/sample/)
 
 
 
